@@ -1,0 +1,2 @@
+b733a387e6fd7fa8d9112560b0a9057b092347f6f6c827b62dca3e370ec6a650  DirectCAM-0.4.7-test.apk
+c2cf6beff5e63c0c652bde47bfffbaa597a00e40ee0364f9dd1cd0f7d468b0fa  DirectCAM-0.4.7-library-kit.zip
