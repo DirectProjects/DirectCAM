@@ -1,7 +1,0 @@
-DirectCAM 0.4.7-test
-
-Uruchom WYSLIJ-NA-GITHUB.cmd w folderze nadrzednym.
-Nie przesylaj plikow przez formularz przegladarki.
-Skrypt wysle cala paczke do DirectProjects/DirectCAM, do galezi main.
-Jesli GitHub poprosi o logowanie, zaloguj sie na konto z dostepem do repo.
-Strona wymaga istniejacego ustawienia GitHub Pages: main /docs.
